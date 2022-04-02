@@ -28,7 +28,7 @@ Can be operated from Personal computer or laptop.
 Perfect for basic programming exercises at initial stage of your learning process .
 ## Weakness:
 GUI is not so attractive.
-Only mouse interface is implemented, keyboard is not activated in the game.
+keyboard is only activated in the game.
 ## High Level Requirements
 |  ID	 | Description	                                  |Status      |
 |------|------------------------------------------------|------------|
