@@ -1,3 +1,5 @@
-Sololearn C Language Certificate
-NGD linux Certificate
-Simplilearn Github Certificate
+- 1.Sololearn C Language Certificate
+- 2.NGD linux Certificate
+- 3.Simplilearn Github Certificate
+- 4.First Day of github course completion screenshot
+- 5.HackerEarth 1000 points screenshot
