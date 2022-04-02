@@ -32,10 +32,20 @@ Only mouse interface is implemented, keyboard is not activated in the game.
 ## High Level Requirements
 |  ID	 | Description	                                  |Status      |
 |------|------------------------------------------------|------------|
-|HLR_1 | The user can change its selected sign("0","x")	|Implemented |
+|HLR1  | The user can change its selected sign("0","x")	|Implemented |
+|HLR2  |	User will be able to choose 'O' to play       |Implemented |
+|HLR3  |	One of the User will lose	                    |Implemented |
+|HLR4  |	One of the User will win                	    |Implemented |
+|HLR5  |	Game may end up in a Draw situation	          |Implemented |
+
 ## Low Level Reuirements
 |ID	    | Description	                 | Status      |
 |-------|------------------------------|-------------|
-|LLR_1	| List of operations displayed | Implemented |
-|LLR_2	| Input from the user          | Implemented |
-LLR_3	  |Exit the program	             | Implemented |
+|LLR1	  |If the user presses '1',then the game is started |Implemented |
+|LLR2	  |If the user presses '2’,then  the LeaderBoard will be dispalyed |Implemented |
+|LLR3	  |Asks to enter the name of the player1	|Implemented |
+|LLR4	  |Asks to enter the name of the player2	|Implemented |
+|LLR5	  |If the Player1 is playing with 'X', then Player2 gets’O’	|Implemented |
+|LLR6   |If the player1 gets 3 Xs or 3 Os in vertical,horizontal or diagonal row, User will lose	|Implemented |
+|LLR7	  |If the player2 gets 3 Xs or 3 Os(as per his choice), in vertical,horizontal or diagonal row, he'll win	|Implemented |
+|LLR8   |If the total number of moves, i.e., 9 moves have been completed and neithe the player1 nor the player2 has won, it'll end up in a draw	|Implemented |
