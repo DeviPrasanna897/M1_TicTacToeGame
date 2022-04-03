@@ -1,5 +1,5 @@
 # M1_TicTacToeGame
-Tic-tac-toe is a game in which two players take turns in drawing either an ' O' or an ' X' in one square of a grid consisting of nine squares. The winner is the first player to get three of the same symbols in a row.
+Tic-tac-toe is a game in which two players take turns in drawing either an ' O' or an ' X' in one square of a grid consisting of nine squares. The winner is the first player to get three of the same symbols in a row/column/diagonal.
 ## Rules of the Game
 - 1.The game is to be played between two people .
 - 2.One of the player chooses ‘O’ and the other ‘X’ to mark their respective cells.
